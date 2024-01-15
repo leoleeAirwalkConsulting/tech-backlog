@@ -1,6 +1,6 @@
 https://github.com/AirWalk-Digital/airwalk_patterns/issues/459
 
-## In Scope
+## In Scope
  - Establishing guardrails across your Landing Zone - options available and AWS services that can help
  - Using the built in Control Tower guardrails (recommended?) Alternative options for customers not using CT?
  - Using AWS Config and Config Aggregator for detective / remediative actions
